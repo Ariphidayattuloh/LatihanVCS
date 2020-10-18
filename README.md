@@ -64,7 +64,7 @@ $ cd Latihan-VCS
 
 • Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directory)
 
-• direktory aktif menjadi: e:\labs_pemrograman1\Latihan-VCS
+• direktory aktif menjadi: c:\labs_pemrograman1\Latihan-VCS
 
 Membuat Reposiory Local
 
