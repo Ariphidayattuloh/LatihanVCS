@@ -1,22 +1,26 @@
-# LatihanVCS
+# LatihanVCS Membuat satu repository LatihanVCS dan Buat file README.md
+
 Nama : Arip Hidayattuloh
 
 Nim  : 312010244
 
 Kelas: TI.20.B.1
 
-Tugas: Membuat satu repository LatihanVCS dan Buat file README.md
-
 Dosen: Agung Nugroho S.Kom, M.kom
+
 
 Instalasi Git
 
 • Download Git, buka website resminya Git (git-scm.com).
 
+![1](https://user-images.githubusercontent.com/72840534/96370052-cd255d80-1186-11eb-9b0f-7d376a4b2499.png)
+
+
 • Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
 
 
 ![pic 2 1](https://user-images.githubusercontent.com/72840534/96367580-f63ef180-1178-11eb-96b6-5dda04c64fdd.jpg)
+
 
 ![pic 3](https://user-images.githubusercontent.com/72840534/96367595-08209480-1179-11eb-9fdb-cf8707a157de.jpg)
 
@@ -163,7 +167,7 @@ $ git push -u origin master
 
 ![login](https://user-images.githubusercontent.com/72840534/96369637-694e6500-1185-11eb-941a-2a4f4e7988e6.png)
 
-![origin](https://user-images.githubusercontent.com/72840534/96369703-c813de80-1185-11eb-9f77-f605975e2a27.png)
+
 
 Melihat hasilnya pada server repository
 
@@ -171,7 +175,8 @@ Melihat hasilnya pada server repository
 
 • Maka perubahan akan terlihat pada laman tersebut.
 
-(Gambar)
+![origin](https://user-images.githubusercontent.com/72840534/96369703-c813de80-1185-11eb-9f77-f605975e2a27.png)
+
 Clone Repository
 
 • Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working directory).
@@ -191,7 +196,11 @@ Kegunaan file README.md
 
 • untuk lebih jelasnya, dapat anda gunakan cara penggunaan markdown
 
-TERIMA KASIH😊
+
+![6efb9bc5d143-article-190612-github-body-text](https://user-images.githubusercontent.com/72840534/96370606-9d775500-1188-11eb-88dc-43e57f206245.jpg)
+
+
+
 
 
 
