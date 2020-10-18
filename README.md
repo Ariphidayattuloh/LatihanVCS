@@ -168,6 +168,9 @@ $ git push -u origin master
 ![login](https://user-images.githubusercontent.com/72840534/96369637-694e6500-1185-11eb-941a-2a4f4e7988e6.png)
 
 
+![origin](https://user-images.githubusercontent.com/72840534/96369703-c813de80-1185-11eb-9f77-f605975e2a27.png)
+
+
 
 Melihat hasilnya pada server repository
 
@@ -175,7 +178,9 @@ Melihat hasilnya pada server repository
 
 • Maka perubahan akan terlihat pada laman tersebut.
 
-![origin](https://user-images.githubusercontent.com/72840534/96369703-c813de80-1185-11eb-9f77-f605975e2a27.png)
+
+
+![222](https://user-images.githubusercontent.com/72840534/96371614-af5af700-118c-11eb-939c-5e8fba1ad2ec.png)
 
 Clone Repository
 
@@ -184,6 +189,11 @@ Clone Repository
 • Untuk melakukan cloning, gunakan perintah git clone [url]
 
 $ git clone https://github.com/ariphidayattuloh/LatihanVCS.git
+
+
+![origin](https://user-images.githubusercontent.com/72840534/96369703-c813de80-1185-11eb-9f77-f605975e2a27.png)
+
+
 
 
 Kegunaan file README.md
