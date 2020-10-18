@@ -91,7 +91,8 @@ Menambahkan File baru pada repository
 $ git add README. md
 
 • File README.md berhasil ditambahkan
-(Gambar)
+
+![readme](https://user-images.githubusercontent.com/72840534/96368179-b11cbe80-117c-11eb-8ba4-2de88299c570.jpg)
 
 Commit (Menyimpan perubahan ke database)
 
