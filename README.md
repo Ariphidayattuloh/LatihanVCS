@@ -11,13 +11,17 @@ Instalasi Git
 
 • Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
 
-![Pict-1](https://user-images.githubusercontent.com/72840534/96367201-87f92f80-1176-11eb-9615-b8d519213e11.jpg)
+
+![pic 2 1](https://user-images.githubusercontent.com/72840534/96367580-f63ef180-1178-11eb-96b6-5dda04c64fdd.jpg)
+
+![pic 3](https://user-images.githubusercontent.com/72840534/96367595-08209480-1179-11eb-9fdb-cf8707a157de.jpg)
+
 
 Selamat, Git sudah terinstal di Windows. Untuk mencobanya, silahkan buka CMD atau PowerShell, kemudian ketik perintah
 
 git --version
 
-(Gambar)
+![pic 4](https://user-images.githubusercontent.com/72840534/96367601-0d7ddf00-1179-11eb-8dd6-ef2dee401a8c.jpg)
 
 Menambahkan Global Config
 
@@ -33,7 +37,8 @@ $ git config --global user. name “nama_user”
 
 $ git config --global user. email “nama_user”
 
-(Gambar)
+![pic 5 1](https://user-images.githubusercontent.com/72840534/96367605-1373c000-1179-11eb-9e18-bb2f1afc882b.jpg)
+
 
 Membuat Reposiory Local
 
@@ -47,7 +52,8 @@ $ mkdir Latihan-VCS
 
 $ cd Latihan-VCS
 
-(Gambar)
+![pic 6](https://user-images.githubusercontent.com/72840534/96367610-1b336480-1179-11eb-9d37-7be4625bdcad.jpg)
+
 • Sehingga terbentuk satu direktori baru dibawahnya, selanjutnya masuk kedalam direktori tersebut dengan perintah cd (change directory)
 
 • direktory aktif menjadi: e:\labs_pemrograman1\Latihan-VCS
@@ -58,12 +64,15 @@ Membuat Reposiory Local
 
 $ git init
 
-(Gambar)
+![pic 7](https://user-images.githubusercontent.com/72840534/96367612-1e2e5500-1179-11eb-89f5-fd2f94acffea.jpg)
+
 
 • Repository baru berhasil di inisialisasi, dengan terbentuknya satu Direktori hidden dengan nama .git
-(Gambar)
+
+![pic 8](https://user-images.githubusercontent.com/72840534/96367614-21294580-1179-11eb-97a4-516a82407145.jpg)
+
 • Pada direktori tersebut, semua perubahan pada working directory akan disimpan.
-(Gambar)
+
 Menambahkan File baru pada repository
 
 • Untuk membuat file dapat menggunakan text editor, lalu menyimpan filenya pada direktori aktif (repository)
@@ -72,9 +81,9 @@ Menambahkan File baru pada repository
 
 $ echo “# Latihan-VCS” >> README. md
 
-(Gambar)
+![echo1](https://user-images.githubusercontent.com/72840534/96368045-af9ec680-117b-11eb-81b6-6b4a8f7e4f1d.png)
 • File README.md berhasil dibuat.
-(Gambar)
+
 Menambahkan File baru pada repository
 
 • Untuk menambahkan file yang baru saja dibuat tersebut gunakan perintah git add.
