@@ -11,7 +11,7 @@ Instalasi Git
 
 • Kemudian unduh Git sesuai dengan arsitektur komputer kita. Kalau menggunakan 64bit, unduh yang 64bit. Begitu juga kalau menggunakan 32bit.
 
-(Gambar)
+![Pict-1](https://user-images.githubusercontent.com/72840534/96367201-87f92f80-1176-11eb-9615-b8d519213e11.jpg)
 
 Selamat, Git sudah terinstal di Windows. Untuk mencobanya, silahkan buka CMD atau PowerShell, kemudian ketik perintah
 
