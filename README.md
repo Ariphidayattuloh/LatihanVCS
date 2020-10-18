@@ -82,7 +82,10 @@ Menambahkan File baru pada repository
 $ echo “# Latihan-VCS” >> README. md
 
 ![echo1](https://user-images.githubusercontent.com/72840534/96368045-af9ec680-117b-11eb-81b6-6b4a8f7e4f1d.png)
+
 • File README.md berhasil dibuat.
+
+![readme](https://user-images.githubusercontent.com/72840534/96368179-b11cbe80-117c-11eb-8ba4-2de88299c570.jpg)
 
 Menambahkan File baru pada repository
 
@@ -92,7 +95,8 @@ $ git add README. md
 
 • File README.md berhasil ditambahkan
 
-![readme](https://user-images.githubusercontent.com/72840534/96368179-b11cbe80-117c-11eb-8ba4-2de88299c570.jpg)
+![readm berhasil](https://user-images.githubusercontent.com/72840534/96368438-060d0480-117e-11eb-97d7-59da7d7d23bb.jpg)
+
 
 Commit (Menyimpan perubahan ke database)
 
@@ -100,9 +104,13 @@ Commit (Menyimpan perubahan ke database)
 
 $ git commit -m “Bahasa Pemrograman Repository Lokal LatihanVCS"
 
-(Gambar)
+![readm COMMIT](https://user-images.githubusercontent.com/72840534/96368607-d27eaa00-117e-11eb-973b-1148d683b9be.jpg)
+
+
 • Perubahan berhasil disimpan
-(Gambar)
+
+![BUKA FILE](https://user-images.githubusercontent.com/72840534/96368701-88e28f00-117f-11eb-811f-e05fa64d404b.jpg)
+
 Membuat repository server
 
 • Server reopsitory yang akan kita gunakan adalah http://github.com
