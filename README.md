@@ -121,14 +121,16 @@ Membuat repository server
 
 • Dari menu (icon +) klik New Repository
 
-(Gambar)
+![new repository](https://user-images.githubusercontent.com/72840534/96368967-386c3100-1181-11eb-9766-aaddc753338d.jpg)
+
 Membuat repository server
 
 • Isi nama repositorynya, misal: LatihanVCS.
 
-(Gambar)
+![membuat repository](https://user-images.githubusercontent.com/72840534/96369183-b7159e00-1182-11eb-86f5-2074e6750b05.png)
 • lalu klik tombol Create repository
-(Gambar)
+
+
 Menambahkan Remote Repository
 
 • Remote Repository merupakan repository server yang akan
@@ -137,13 +139,16 @@ digunakan untuk menyimpan setiap perubahan pada local repository, sehingga dapat
 
 Alamat url kita
 
-(Gambar)
+![REMOTE](https://user-images.githubusercontent.com/72840534/96369409-e547ad80-1183-11eb-9224-5633948b042a.png)
 
 • Untuk menambahkan remote repository server, gunakan perintah git remote add origin [url]
 
 $ git remote add origin https://github.com/ariphidayattuloh/LatihanVCS.git
 
-(Gambar)
+![add](https://user-images.githubusercontent.com/72840534/96369473-5d15d800-1184-11eb-9627-0430787fe721.png)
+
+
+
 Push (Mengirim perubahan ke server)
 
 • Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
@@ -152,7 +157,9 @@ $ git push -u origin master
 
 • Perintah ini akan meminta memasukkan username dan password pada akun github.com
 
-(Gambar)
+![login](https://user-images.githubusercontent.com/72840534/96369637-694e6500-1185-11eb-941a-2a4f4e7988e6.png)
+
+![origin](https://user-images.githubusercontent.com/72840534/96369703-c813de80-1185-11eb-9f77-f605975e2a27.png)
 
 Melihat hasilnya pada server repository
 
@@ -168,7 +175,7 @@ Clone Repository
 • Untuk melakukan cloning, gunakan perintah git clone [url]
 
 $ git clone https://github.com/ariphidayattuloh/LatihanVCS.git
-(Gambar)
+
 
 Kegunaan file README.md
 
