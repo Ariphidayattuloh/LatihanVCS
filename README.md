@@ -1,8 +1,12 @@
 # LatihanVCS
 Nama : Arip Hidayattuloh
+
 Nim  : 312010244
+
 Kelas: TI.20.B.1
+
 Tugas: Membuat satu repository LatihanVCS dan Buat file README.md
+
 Dosen: Agung Nugroho S.Kom, M.kom
 
 Instalasi Git
