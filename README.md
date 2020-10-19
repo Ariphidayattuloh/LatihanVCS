@@ -50,7 +50,7 @@ $ git config --global user. email “nama_user”
 
 Membuat Reposiory Local
 
-• Buka direktory aktif, misal: e:\labs_pemrograman1 (buka menggunakan Windows Explorer)
+• Buka direktory aktif, misal: c:\labs_pemrograman1 (buka menggunakan Windows Explorer)
 
 • klik kanan pada direktory aktif tersebut, dan pilih menu Git Bash, sehingga muncul git bash commad
 
